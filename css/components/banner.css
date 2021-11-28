@@ -1,0 +1,17 @@
+.banner {
+	background-image: url(../../images/banner.png);
+	color: white;
+	padding: 300px 0px;
+	background-position: center;
+
+}
+
+
+.banner h1 {
+
+
+	display: fex;
+	flex-wrap: wrap;
+	justify-content: center;
+	
+}
